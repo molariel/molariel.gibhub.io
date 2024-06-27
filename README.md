@@ -1,2 +1,2 @@
 # molariel.gibhub.io
-desafio de  hernecia
+desafio de  herencia
